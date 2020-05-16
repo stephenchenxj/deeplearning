@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['stock_multivariate_time_series_forecasting_with_LSTMs_convert_origin_value.py', 'test_generation.py', 'lstm_arch.py']
+
